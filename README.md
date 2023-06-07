@@ -1,4 +1,4 @@
-# WebComponent
+# Smart Components y Web Components
 
 Protecto ejemplo de cómo usar los componentes de Angular para la creación de Smart Components
 
