@@ -24,8 +24,11 @@ Protecto ejemplo de cómo usar los componentes de Angular para la creación de S
    - Escribir cmd y dar **Enter** 
    
    ![image](https://github.com/josemoct99/SmartComponents/assets/42449020/79312e59-1418-4322-baed-613ca689b375)
+   - Escribir el comando *npm install*
    - Escribir el comando *ng serve -o*
+
+### ¡Ya puedes ver la aplicación en tu navegador!
    
-   ![image](https://github.com/josemoct99/SmartComponents/assets/42449020/c70b9d43-4d0e-4da3-a7b8-5750b666c911)
+   
 
  
